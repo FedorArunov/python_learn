@@ -1,2 +1,2 @@
 # python_learn
-project for learning python automation
+Example project for learning Python automation using Playwright
